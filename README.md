@@ -65,7 +65,10 @@
   <a href="https://github.com/BautistaDiaz04" target="_blank">
     <img align="center" alt="Shourya742 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
-  
+ 
+   <a href="https://www.instagram.com/bautidiaz1/?next=%2F" target="_blank">
+    <img align="center" alt="Shourya742 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" />
+  </a> &nbsp;&nbsp;
 <p>
 
 <div align="center">
