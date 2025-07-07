@@ -4,7 +4,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="20px" height="20px"></img> About Me
 
--  My full name is **Bautista Diaz** <img src="https://raw.githubusercontent.com/BautistaDiaz04/Dis.niveles/refs/heads/main/47c9f5f2-b81e-4142-826a-5f4d006615a5.png?token=GHSAT0AAAAAADG4PIVNIBVDCUYB3JGPMY2A2DMGWUQ"  width="380" align="right"/>
+-  My full name is **Bautista Diaz** <img src="https://raw.githubusercontent.com/BautistaDiaz04/Dis.niveles/refs/heads/main/47c9f5f2-b81e-4142-826a-5f4d006615a5.png?token=GHSAT0AAAAAADG4PIVNEGCC7FNBDQ5UB2RU2DMHFEA"  width="380" align="right"/>
 -  I'm currently the Final year student at **Game Developer in Da Vinci School**
 -  My major is **Game Developer**
 -  I'm living now in **Buenos Aires, Argentina**
