@@ -58,7 +58,7 @@
     <img align="center" alt="Shourya742 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/shourya-sharma-65b5351a7/" target="_blank">
+  <a href="https://www.linkedin.com/in/d%C3%ADaz-bautista-0a2282213/" target="_blank">
     <img align="center" alt="Shourya742 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
