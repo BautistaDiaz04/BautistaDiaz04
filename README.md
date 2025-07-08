@@ -2,7 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather+Daughter&color=%2767E8&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Bauti;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="20px" height="20px"></img> About Me
+
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="20px" height="20px"></img> About Me <img src="https://raw.githubusercontent.com/BautistaDiaz04/BautistaDiaz04/refs/heads/main/47c9f5f2-b81e-4142-826a-5f4d006615a5.png"  width="380" align="right"/>
 
 -  My full name is **Bautista Diaz** 
 -  I'm currently the Final year student at **Game Developer in Da Vinci School**
@@ -10,7 +11,6 @@
 -  I'm living now in **Buenos Aires, Argentina**
 -  I'm interested in new projects, create and think 
 -  My quote is **_"Ideas are being created"_**
-<img src="https://raw.githubusercontent.com/BautistaDiaz04/BautistaDiaz04/refs/heads/main/47c9f5f2-b81e-4142-826a-5f4d006615a5.png"  width="380" align="right"/>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
 
 <br>
