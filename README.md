@@ -73,7 +73,8 @@
 <p>
 
 <a href="https://github.com/maxicollavo/NewTepet" target="_blank">
-    <img align="center" alt="Shourya742 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="Shourya742 | Linkedin" width="24px" src="https://img.shields.io/github/deployments/:user/:repo/:environment
+" />
   </a> &nbsp;&nbsp;
 
 <div align="center">
