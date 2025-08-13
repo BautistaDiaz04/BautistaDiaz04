@@ -74,7 +74,7 @@
 
 <a href="https://github.com/maxicollavo/NewTepet" target="_blank">
    <img align="center" alt="Shourya742 | GitHub" width="26px" src="https://raw.githubusercontent.com/argob/iconos/a5a7e2f4daf1eb34eaf9d9c14d5423f8cb6736ad/src/_icons/juegos.svg"   />
-  -  My full name is **Bautista Diaz** 
+   -  Tepet Proyect Link 
   </a> &nbsp;&nbsp;
 
 <div align="center">
