@@ -73,7 +73,7 @@
 <p>
 
 <a href="https://github.com/maxicollavo/NewTepet" target="_blank">
-   
+   <img align="center" alt="Shourya742 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" />
   </a> &nbsp;&nbsp;
 
 <div align="center">
