@@ -73,7 +73,7 @@
 <p>
 
 <a href="https://github.com/maxicollavo/NewTepet" target="_blank">
-    <img align="center" alt="Shourya742 | Linkedin" width="24px" src="https://img.shields.io/github/deployments/:user/:repo/:environment
+    <img align="center" alt="Shourya742 | " width="24px" src="https://img.shields.io/github/deployments/:user/:repo/:environment
 " />
   </a> &nbsp;&nbsp;
 
